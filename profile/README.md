@@ -1,7 +1,7 @@
-## CatCatBot
+## Ririra
 🐧 QQ guild bot。
 
-关联项目：[guild-bot-lalafell](https://github.com/CatCatBot/guild-bot-lalafell)
+关联项目：[ririra](https://github.com/Ririra/ririra)
 
 QQ频道: 拉拉肥; 拉拉菲尔
 
